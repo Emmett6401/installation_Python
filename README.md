@@ -16,6 +16,6 @@
 
 프로그램 실행 
 5. 완성된 주소록 샘플 프로그램
-  ![완성](image/result.PNG)
+  ![완성](image/final.PNG)
 
 
